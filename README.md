@@ -5,7 +5,7 @@
 <h1> Hello Friends <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <p align="center">
 </p>
-<p><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
+
 <p>
 </p>
 <div size="20px"> Hi! My name is Chamudini Dilhara,I'm a Software Engineer currently Studying at NIBM University Srilanka 
