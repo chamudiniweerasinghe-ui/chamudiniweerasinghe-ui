@@ -1,5 +1,5 @@
 
-<h1> Hello Fellow,I'm Software Engineer &lt; / &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h1> Hello Fellow,I'm Software Engineer! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <p align="center">
 </p>
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=Chamudinia664.chamudini664" alt="Profile views">
