@@ -1,31 +1,26 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px">
 </div>
-<h1> Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h1> Hello Friends <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <p align="center">
 </p>
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664" alt="Profile views">
-<a href="https://github.com/Aditya664"><img src="https://img.shields.io/github/followers/Aditya664?label=Follow&amp;style=social" alt="Github"></a></p>
-<div size="20px"> Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile :smile: 
+<p>
+</p>
+<div size="20px"> Hi! My name is Chamudini Dilhara,I'm a Software Engineer currently Studying at NIBM University Srilanka 
 </div>
-<h2> About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&amp;rid=giphy.gif" width="100px"></h2>
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
+
 <ul>
 <li>
-<p>🔭 I’m currently working on  Soy Estudiante</p>
+<p>🔭 I’m currently Studying Software Engineering</p>
 </li>
 <li>
-<p>🌱 I’m currently learning Git, Java y GitHub</p>
+<p>🌱 I’m  learning Git, Java , and few other languages/p>
 </li>
-<li>
-<p>👯 I’m looking to collaborate on Proyectos</p>
-</li>
+
 <li>
 <p>💬 Ask me about Sql, Java, C#, JavaScript</p>
 </li>
-<li>
-<p>⚡ Fun fact: Me gustan los girasoles.</p>
-</li>
+
 </ul>
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> </h2>
 <a href="https://github.com/Aditya664?tab=repositories&amp;q=&amp;type=&amp;language=python&amp;sort="> <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"> </a>
