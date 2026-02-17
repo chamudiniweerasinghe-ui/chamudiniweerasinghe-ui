@@ -4,9 +4,9 @@
 <h1> Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <p align="center">
 </p>
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664" alt="Profile views">
-<a href="https://github.com/Aditya664"><img src="https://img.shields.io/github/followers/Aditya664?label=Follow&amp;style=social" alt="Github"></a></p>
-<div size="20px"> Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile :smile: 
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=Aditya664.chamudini664" alt="Profile views">
+<a href="https://github.com/Chamudini664"><img src="https://img.shields.io/github/followers/Aditya664?label=Follow&amp;style=social" alt="Github"></a></p>
+<div size="20px"> Hi! My name is Chamudini. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 <h2> About Me <img src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&amp;rid=giphy.gif" width="100px"></h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
@@ -49,7 +49,7 @@
 <br>
 <br>
   <br>
-<p><a href="https://git.io/praveenscience"><img src="https://activity-graph.herokuapp.com/graph?username=Aditya664&amp;theme=tokyonight" alt="Aditya's GitHub Activity Graph"></a></p>
+<p><a href="https://git.io/praveenscience"><img src="https://activity-graph.herokuapp.com/graph?username=Aditya664&amp;theme=tokyonight" alt="Chamudini's GitHub Activity Graph"></a></p>
 
 
 
