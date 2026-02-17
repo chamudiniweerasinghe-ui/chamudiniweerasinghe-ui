@@ -1,6 +1,6 @@
-  <p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
-</p>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px">
+</div>
 <h1> Hello Fellow &lt; Developers/ &gt;! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <p align="center">
 </p>
