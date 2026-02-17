@@ -55,7 +55,7 @@
 <br>
 <br>
   <br>
-<p><a href="https://git.io/praveenscience"><img src="https://activity-graph.herokuapp.com/graph?username=Aditya664&amp;theme=tokyonight" alt="Aditya's GitHub Activity Graph"></a></p>
+
 
 
 
