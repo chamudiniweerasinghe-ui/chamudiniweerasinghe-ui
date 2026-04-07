@@ -55,6 +55,14 @@
 <br>
 <br>
   <br>
+  <h2 id="github-contribution-streak">Github Contribution Streak & Contribution Graph 📈</h2>
+<br>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=chamudiniweerasinghe-ui&amp;theme=black-ice&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D"></p>
+
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=chamudiniweerasinghe-ui&amp;bg_color=011627&amp;color=79d3c3&amp;line=c792ea&amp;point=ffeb95&amp;area=true&amp;hide_border=false" border-radius="15">
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
