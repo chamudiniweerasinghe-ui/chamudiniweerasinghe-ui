@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" width="900" height="340">
+  <defs>
+    <radialGradient id="purple"><stop offset="0" stop-color="#8a2be2" stop-opacity="0.55"/><stop offset="1" stop-color="#8a2be2" stop-opacity="0"/></radialGradient>
+    <radialGradient id="teal"><stop offset="0" stop-color="#00e5d4" stop-opacity="0.40"/><stop offset="1" stop-color="#00e5d4" stop-opacity="0"/></radialGradient>
+    <radialGradient id="pink"><stop offset="0" stop-color="#ff2bd6" stop-opacity="0.30"/><stop offset="1" stop-color="#ff2bd6" stop-opacity="0"/></radialGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/><stop offset="0.5" stop-color="#bfeaff"/><stop offset="1" stop-color="#ffffff"/>
+      <animate attributeName="x1" values="-1;0" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;1" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00cfff" stop-opacity="0"/><stop offset="0.5" stop-color="#00cfff" stop-opacity="0.12"/><stop offset="1" stop-color="#00cfff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="soft" x="-10%" y="-50%" width="120%" height="200%">
+      <feGaussianBlur stdDeviation="1.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="card"><rect x="6" y="6" width="888" height="328" rx="22"/></clipPath>
+  </defs>
+
+  <rect x="6" y="6" width="888" height="328" rx="22" fill="#07060f" stroke="#1d1a33" stroke-width="2"/>
+
+  <g clip-path="url(#card)">
+    <!-- drifting glows -->
+    <circle cx="220" cy="110" r="230" fill="url(#purple)">
+      <animate attributeName="cx" values="180;300;180" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="100;140;100" dur="9s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="700" cy="120" r="210" fill="url(#teal)">
+      <animate attributeName="cx" values="740;620;740" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="130;90;130" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="450" cy="300" r="180" fill="url(#pink)">
+      <animate attributeName="cx" values="380;520;380" dur="16s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- stars -->
+    <g fill="#fff">
+      <circle cx="60" cy="50" r="1.4"><animate attributeName="opacity" values="0.1;1;0.1" dur="3s" repeatCount="indefinite"/></circle>
+      <circle cx="150" cy="260" r="1.2"><animate attributeName="opacity" values="1;0.1;1" dur="2.6s" repeatCount="indefinite"/></circle>
+      <circle cx="320" cy="40" r="1.6"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.4s" repeatCount="indefinite"/></circle>
+      <circle cx="560" cy="45" r="1.3"><animate attributeName="opacity" values="1;0.2;1" dur="2.2s" repeatCount="indefinite"/></circle>
+      <circle cx="800" cy="60" r="1.5"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.9s" repeatCount="indefinite"/></circle>
+      <circle cx="850" cy="250" r="1.2"><animate attributeName="opacity" values="1;0.1;1" dur="3.2s" repeatCount="indefinite"/></circle>
+      <circle cx="690" cy="300" r="1.4"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/></circle>
+      <circle cx="90" cy="150" r="1.1"><animate attributeName="opacity" values="1;0.2;1" dur="3.6s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- scanline -->
+    <rect x="6" y="-60" width="888" height="60" fill="url(#scan)">
+      <animate attributeName="y" values="-60;340" dur="5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- corner brackets -->
+  <g stroke="#00cfff" stroke-width="2" fill="none" stroke-linecap="round" filter="url(#soft)">
+    <path d="M22 50 V22 H50"><animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/></path>
+    <path d="M850 318 H878 V290"><animate attributeName="opacity" values="1;0.4;1" dur="3s" repeatCount="indefinite"/></path>
+  </g>
+
+  <!-- title -->
+  <g text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-weight="bold">
+    <text x="450" y="118" font-size="52" letter-spacing="14" fill="url(#title)" filter="url(#glow)">CHAMUDINI</text>
+    <text x="450" y="158" font-size="15" letter-spacing="9" fill="#7aa7ff">SOFTWARE ENGINEER</text>
+    <text x="450" y="190" font-size="11" letter-spacing="6" fill="#8d8aa8" font-weight="normal">NIBM UNIVERSITY  |  SRI LANKA</text>
+    <text x="450" y="212" font-size="9" letter-spacing="4" fill="#5b5877" font-weight="normal">HELLO FRIENDS · ALWAYS LEARNING</text>
+  </g>
+
+  <!-- skill pills -->
+  <g font-family="Verdana, Arial, sans-serif" font-size="12" text-anchor="middle" fill="#e6e3ff">
+    <g>
+      <rect x="54" y="248" width="92" height="30" rx="15" fill="#0d0b1c" stroke="#00cfff" stroke-width="1.5"><animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3s" begin="0s" repeatCount="indefinite"/></rect>
+      <text x="100" y="268">Java</text>
+    </g>
+    <g>
+      <rect x="154" y="248" width="92" height="30" rx="15" fill="#0d0b1c" stroke="#ff2bd6" stroke-width="1.5"><animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3s" begin="0.3s" repeatCount="indefinite"/></rect>
+      <text x="200" y="268">C#</text>
+    </g>
+    <g>
+      <rect x="254" y="248" width="92" height="30" rx="15" fill="#0d0b1c" stroke="#ffd23f" stroke-width="1.5"><animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3s" begin="0.6s" repeatCount="indefinite"/></rect>
+      <text x="300" y="268">JavaScript</text>
+    </g>
+    <g>
+      <rect x="354" y="248" width="92" height="30" rx="15" fill="#0d0b1c" stroke="#39ff14" stroke-width="1.5"><animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3s" begin="0.9s" repeatCount="indefinite"/></rect>
+      <text x="400" y="268">SQL</text>
+    </g>
+    <g>
+      <rect x="454" y="248" width="92" height="30" rx="15" fill="#0d0b1c" stroke="#7a5cff" stroke-width="1.5"><animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3s" begin="1.2s" repeatCount="indefinite"/></rect>
+      <text x="500" y="268">C / C++</text>
+    </g>
+    <g>
+      <rect x="554" y="248" width="92" height="30" rx="15" fill="#0d0b1c" stroke="#00cfff" stroke-width="1.5"><animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3s" begin="1.5s" repeatCount="indefinite"/></rect>
+      <text x="600" y="268">PHP</text>
+    </g>
+    <g>
+      <rect x="654" y="248" width="92" height="30" rx="15" fill="#0d0b1c" stroke="#ff2bd6" stroke-width="1.5"><animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3s" begin="1.8s" repeatCount="indefinite"/></rect>
+      <text x="700" y="268">React</text>
+    </g>
+    <g>
+      <rect x="754" y="248" width="92" height="30" rx="15" fill="#0d0b1c" stroke="#ffd23f" stroke-width="1.5"><animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3s" begin="2.1s" repeatCount="indefinite"/></rect>
+      <text x="800" y="268">Flutter</text>
+    </g>
+  </g>
+</svg>
